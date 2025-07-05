@@ -9,7 +9,8 @@ This is a beginner-friendly **Stock Tracker** app designed as part of a hands-on
 ## 🔧 Features
 
 - 💾 Save stock trades in an SQL database  
-- 🔍 Fetch current stock prices using the Yahoo Finance API  
+- 🔍 Fetch current stock prices using the Yahoo Finance API
+- 🧮 Calculate individual and total profit/loss of your investments    
 - 🗑️ Delete unwanted trades from your watchlist
 
 ---
